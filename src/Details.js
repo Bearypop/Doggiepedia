@@ -19,7 +19,7 @@ function Details() {
             </div>
             <div className="details-content">
                 <h1 className="details-title">{title}</h1>
-                <img src={image} alt="detail-image"/>
+                <img src={image} alt=""/>
                 <p className="details-description">{description}</p>
             </div>
         </div>
